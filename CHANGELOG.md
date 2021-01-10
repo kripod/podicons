@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - _x_ and _x-small_ outlines
 - _search_ outline
 - _menu_ outline
+- _minus_ outline
+- _plus_ outline
 
 ## [0.1.1] - 2021-01-10
 
