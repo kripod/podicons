@@ -1,0 +1,9 @@
+multipass: true
+
+# Maximize compatibility with renderers:
+# https://github.com/svg/svgo/issues/1137#issuecomment-525363064
+plugins:
+  - convertPathData:
+      noSpaceAfterFlags: false
+  - mergePaths:
+      noSpaceAfterFlags: false

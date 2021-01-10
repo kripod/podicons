@@ -1,0 +1,21 @@
+{
+	"name": "podicons",
+	"version": "0.1.0",
+	"description": "Handwritten 24×24px SVG icons with compressibility in mind",
+	"keywords": [
+		"icon",
+		"outline",
+		"minified"
+	],
+	"homepage": "https://github.com/kripod/podicons#readme",
+	"bugs": {
+		"url": "https://github.com/kripod/podicons/issues"
+	},
+	"repository": "github:kripod/podicons",
+	"license": "MIT",
+	"author": "Kristóf Poduszló <kripod@protonmail.com>",
+	"sideEffects": false,
+	"files": [
+		"outline/"
+	]
+}
