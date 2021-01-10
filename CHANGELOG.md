@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- **circle-small:** shrink radius to balance it out with other small icons
+- **circle-small:** shrink radius to balance out with other small icons
+- **sun:** shrink to balance out with other regular size icons
 
 ## [0.1.2] - 2021-01-10
 
