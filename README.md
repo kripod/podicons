@@ -2,9 +2,11 @@
 
 Handwritten SVG icons with compressibility in mind
 
-## Rules <span aria-hidden="true">📐</span>
+## Metrics <span aria-hidden="true">📊</span>
 
-- 2px stroke
+- 24×24px bounding box
+- 16×16px live area
+- 2px stroke weight
 - 1px corner radius
 
 ### Base shapes in order of preference
