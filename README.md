@@ -9,10 +9,10 @@ Handwritten 24×24px SVG icons with compressibility in mind
 
 ### Base shapes in order of preference
 
-1. [16×16px **square**](./outline/square.svg) with no elements outside
-2. [18×18px **circle**](./outline/circle.svg) with no elements outside
-3. [12×12px **square-small**](./outline/square-small.svg)
-4. [14×14px **circle-small**](./outline/circle-small.svg)
+1. [16×16px _square_](./outline/square.svg) with no elements outside
+2. [18×18px _circle_](./outline/circle.svg) with no elements outside
+3. [12×12px _square-small_](./outline/square-small.svg)
+4. [14×14px _circle-small_](./outline/circle-small.svg)
 
 ### Format
 
