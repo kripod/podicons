@@ -1,4 +1,4 @@
-# podicons <span aria-hidden="true">🗜️</span>
+# podicons
 
 Handwritten 24×24px SVG icons with compressibility in mind
 
