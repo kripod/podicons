@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - **sun:** shrink to balance out with other regular size icons
+- use `viewBox` attribute instead of `width` and `height` for better scalability
 
 ## [0.2.0] - 2021-01-10
 
@@ -38,12 +39,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Base outlines:
+- base outlines:
   - _square_
   - _circle_
   - _square-small_
   - _circle-small_
-- Rules to follow when authoring icons
+- rules to follow when authoring icons
 
 [unreleased]: https://github.com/kripod/podicons/compare/v0.2.0...HEAD
 [0.2.0]: https://github.com/kripod/podicons/compare/v0.1.1...v0.2.0
