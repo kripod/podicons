@@ -1,6 +1,6 @@
 # podicons
 
-Handwritten 24×24px SVG icons with compressibility in mind
+Handwritten SVG icons with compressibility in mind
 
 ## Rules <span aria-hidden="true">📐</span>
 

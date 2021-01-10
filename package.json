@@ -1,7 +1,7 @@
 {
 	"name": "podicons",
 	"version": "0.3.0",
-	"description": "Handwritten 24×24px SVG icons with compressibility in mind",
+	"description": "Handwritten SVG icons with compressibility in mind",
 	"keywords": [
 		"icon",
 		"outline",
