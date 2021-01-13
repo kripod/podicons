@@ -4,7 +4,7 @@ Handwritten SVG icons with compressibility in mind
 
 ## Metrics <span aria-hidden="true">📊</span>
 
-- 24×24px bounding box
+- 20×20px bounding box
 - 16×16px live area
 - 2px stroke weight
 - 1px corner radius
@@ -32,5 +32,5 @@ _Strokes are always considered to be outside shapes for measurements._
 #### Outline
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"></svg>
 ```
