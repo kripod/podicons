@@ -3,9 +3,10 @@
 	"version": "0.4.0",
 	"description": "Handwritten SVG icons with compressibility in mind",
 	"keywords": [
-		"icon",
-		"outline",
-		"minified"
+		"icons",
+		"svg",
+		"lightweight",
+		"outline"
 	],
 	"homepage": "https://github.com/kripod/podicons#readme",
 	"bugs": {
