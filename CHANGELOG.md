@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- _power_ outline
+
 ## [0.4.0] - 2021-01-13
 
 ### Changed
