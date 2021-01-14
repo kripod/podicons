@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - _power_ outline
 
+### Changed
+
+- Always use round stroke line caps
+
 ## [0.4.0] - 2021-01-13
 
 ### Changed
